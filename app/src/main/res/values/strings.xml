@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Ignite Tech</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="recover"> \tRecover</string>
+    <string name="forgot_your_password">Forgot Your Password?</string>
+    <string name="demo_text">It is quite simple, easy to understand and is perfectly suitable for any beginner developer.
+        One of the best things I have found in this app is the way they have implemented dynamic theming.
+        It is something that many Android developers have struggled to implement properly.</string>
+    <string name="mark_lee">Mark Lee</string>
+    <string name="human">Human</string>
+    <string name="address">Address</string>
+    <string name="_1_2k">1.2K</string>
+    <string name="youtube">YouTube</string>
+    <string name="facebook">Facebook</string>
+    <string name="_1_3k">1.3K</string>
+    <string name="instagram">Instagram</string>
+    <string name="_4_5k">4.5k</string>
+    <string name="introduction">Introduction</string>
+    <string name="edit">Edit</string>
+    <string name="notification">Notification</string>
+    <string name="_10">10</string>
+    <string name="gallery">Gallery</string>
+    <string name="haven_t_registered">Haven\'t Registered?</string>
+    <string name="click_here_to_register">Click Here to Register</string>
+    <string name="my_profile">My Profile</string>
+</resources>
